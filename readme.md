@@ -1,16 +1,5 @@
-<h1>Admin Laravel</h1>
+<h1>Landing Page Irit.io</h1>
 
 ## About
 
-Merupakan template adminLTE yang telah diterapkan dalam framework Laravel. Page dan dokumentasi adminLTE masih dipertahankan agar memudahkan pengembangan. Didalamnya sudah terdapat 3 fitur :
-
-- Profile
-- Post
-- Activity
-
-## Login Admin
-
-Untuk login ke dashborad page menggunakan 2 cara yaitu 
-
-- Account Kit Facebook
-- Login via Akun Sosial Media
+Website company profile dari Irit.io diakses melalui link https://irit-io.id
