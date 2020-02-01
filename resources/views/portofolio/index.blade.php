@@ -39,10 +39,7 @@
                     <th>ID</th>
                     <th>Image</th>
                     <th>Title</th>
-                    <th>Description</th>
-                    <th>Link</th>
                     <th>Client</th>
-                    <th>Waktu Pengerjaan</th>
                     <th>Type</th>
                     <th>List Gambar</th>
                     <th>List Fitur</th>
@@ -55,10 +52,7 @@
                         <img src="{{ asset($portofolio->image) }}" alt="" width="80">
                       </td>
                       <td>{{$portofolio->title}}</td>
-                      <td>{{$portofolio->description}}</td>
-                      <td>{{$portofolio->link}}</td>
                       <td>{{$portofolio->client}}</td>
-                      <td>{{$portofolio->waktu_pengerjaan}}</td>
                       <td>{{$portofolio->type}}</td>
                       <td>
                           <a href="{{ route('gambar.index', ['id_portofolio' => $portofolio->id]) }}" class="btn btn-sm btn-info"><i class="fas fa-eye"></i> Detail</a>
